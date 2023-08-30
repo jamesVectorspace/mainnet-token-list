@@ -1,7 +1,9 @@
 {
   "name": "Shibion tokens",
   "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-  "keywords": ["ZLEAD"],
+  "keywords": [
+    "ZLEAD"
+  ],
   "timestamp": "2022-10-27T18:18:00+00:00",
   "tokens": [
     {
@@ -1874,7 +1876,15 @@
       "name": "Shibion",
       "symbol": "Shibion",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SuperDev348/mainnet-token-list/main/assets/shibion.png"
+      "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/shibion.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x226d6d842D49b4D757bEf1632053a198D5D9c8aA",
+      "name": "Block Browser (BLOCK)",
+      "symbol": "BLOCK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/block.png"
     }
   ],
   "version": {
