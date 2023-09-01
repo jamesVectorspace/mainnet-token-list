@@ -717,13 +717,6 @@
     },
     {
       "chainId": 42,
-      "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 42,
       "address": "0xa1fAA15655B0e7b6B6470ED3d096390e6aD93Abb",
       "name": "Compound Wrapped BTC",
       "symbol": "cWBTC",
