@@ -744,7 +744,7 @@
       "name": "Shibion",
       "symbol": "Shibion",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/shibion.png"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     },
     {
       "chainId": 1,
@@ -752,7 +752,7 @@
       "name": "Block Browser (BLOCK)",
       "symbol": "BLOCK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/block.png"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
   ],
   "version": {
