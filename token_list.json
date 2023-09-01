@@ -1,8 +1,8 @@
 {
-  "name": "Compound",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "name": "Block",
+  "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/block.png",
   "keywords": [
-    "compound",
+    "Block",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
@@ -717,29 +717,6 @@
     },
     {
       "chainId": 42,
-      "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 42,
-      "address": "0x50DD65531676F718B018De3dc48F92B53D756996",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0xAf45ae737514C8427D373D50Cd979a242eC59e5a",
-      "name": "Compound 0x",
-      "symbol": "cZRX",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_zrx.svg"
-    },
-    {
-      "chainId": 42,
       "address": "0xa1fAA15655B0e7b6B6470ED3d096390e6aD93Abb",
       "name": "Compound Wrapped BTC",
       "symbol": "cWBTC",
@@ -753,6 +730,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0050dF93449FBD9A3D8e2F2F6134c33afF46E1bA",
+      "name": "Shibion",
+      "symbol": "Shibion",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/shibion.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x226d6d842D49b4D757bEf1632053a198D5D9c8aA",
+      "name": "Block Browser (BLOCK)",
+      "symbol": "BLOCK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/jamesVectorspace/mainnet-token-list/main/assets/block.png"
     }
   ],
   "version": {
